@@ -25,6 +25,6 @@ if sth goes wrong, you stop with programming and tells the user (kind of he same
 
 ## functions 2
 
-## context
-
 ## inheritance
+
+## context
