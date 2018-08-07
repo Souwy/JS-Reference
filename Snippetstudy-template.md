@@ -20,17 +20,11 @@ personal note: use ctrl+f and lookup "continued" to find where you haven't finis
 ```js
 code
 ```
-
-## Study Links
 [repl.it]()  
-[pytut]()  
-[debugger]()  
-[Parsonizer]()
-sketches : insert img here l8ter _to be continued_
-
+[pythontutor]()  
+   
 ## Vocabulary
-
-
+   
 ## Review
 * Struggles:   
   *   
@@ -38,3 +32,5 @@ sketches : insert img here l8ter _to be continued_
   *
 * next steps:   
   * 
+   
+## Helpful Links
