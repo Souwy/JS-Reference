@@ -9,7 +9,7 @@ https://github.com/Souwy/snippetstudy_primitives_string-method_CharAt
 ## Variables
 
 ## Block scope
-https://github.com/Souwy/Snippetstudy-scope-hoisted/tree/master   
+https://github.com/Souwy/Snippetstudy-scope-hoisted    
 ## Lexical scope
 
 ## Conditionals
