@@ -1,30 +1,28 @@
 # JS-Reference
 
 ## Human-helpers
-console logs, comments, anything that doesn't actually do the logic, they don't influence the outcome but help you interact with your code
+Console logs, comments, anything that doesn't actually do the logic, they don't influence the outcome but help you interact with your code.
 
-## primtives
-the changings between different types of data
+## Primtives, coercion and operators
+https://github.com/Souwy/Snippetstudy-primitives  
+https://github.com/Souwy/snippetstudy_primitives_string-method_CharAt   
+## Variables
 
-##  operators
+## Block scope
+https://github.com/Souwy/Snippetstudy-scope-hoisted/tree/master   
+## Lexical scope
 
-## variables
+## Conditionals
 
-## block scope
+## Reference types
 
-## lexical scope
+## Iterations
 
-## additionals
-
-## reference types
-
-## iterations
-
-## error handling
+## Error handling
 if sth goes wrong, you stop with programming and tells the user (kind of he same as human helpers but the line is blurrier)
 
-## functions 2
+## Functions II
 
-## inheritance
+## Inheritance
 
-## context
+## Context
