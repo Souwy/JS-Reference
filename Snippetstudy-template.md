@@ -1,4 +1,4 @@
-# Snippetstudy_
+# Snippetstudy_main-subject_sub-subject
 <!---
 - Identify a concept or skill you sort of understand, but would like to master. gradually develop the clearest snippet to communicate this principle
 - Construct (or find) a simple example that isolates this skill or concept.
