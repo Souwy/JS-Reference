@@ -7,7 +7,7 @@ Console logs, comments, anything that doesn't actually do the logic, they don't 
 https://github.com/Souwy/Snippetstudy_primitives-types  
 https://github.com/Souwy/snippetstudy_primitives_string-method_CharAt   
 ## Variables
-
+https://github.com/Souwy/Snippetstudy_Hoisting   
 ## Block scope
 https://github.com/Souwy/Snippetstudy_scope    
 ## Lexical scope
