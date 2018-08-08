@@ -4,12 +4,12 @@
 Console logs, comments, anything that doesn't actually do the logic, they don't influence the outcome but help you interact with your code.
 
 ## Primtives, coercion and operators
-https://github.com/Souwy/Snippetstudy-primitives  
+https://github.com/Souwy/Snippetstudy_primitives-types  
 https://github.com/Souwy/snippetstudy_primitives_string-method_CharAt   
 ## Variables
 
 ## Block scope
-https://github.com/Souwy/Snippetstudy-scope-hoisted    
+https://github.com/Souwy/Snippetstudy_scope    
 ## Lexical scope
 
 ## Conditionals
