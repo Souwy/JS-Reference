@@ -32,6 +32,24 @@ code
 [repl.it]()  
 [pythontutor]()  
    
+Tracing table (deconstruction of input/output):
+   
+State nr. | State | Operation
+------------|------------ | -------------
+S0  | null |  
+ . |  | Boolean (null)
+S1 | false | 
+. | | Void (undefined; "undefined")
+S2 | undefined | 
+. |  | Number (Number; Nan)
+S3 | Nan | 
+. |  | typeof (string; "Number")
+S4 | "Number" | 
+. | | "Number".toString
+S5| "Number" | 
+. | | typeof "number" (BECAUSE "number" is actually a string. "n-u-m-b-e-r"
+S6 | "string" | 
+   
 ## Vocabulary
    
 ## Review
