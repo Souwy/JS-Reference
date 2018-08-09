@@ -14,7 +14,22 @@
 - Understand the same code from different perspectives
 - Select the right visualization tools for your use case
 --->
-
+## What makes a good snippet and a good exercise?
+How do I create a good snippet? You need to have very clear idead of what are you trying to learn out of the snippet.   
+   
+Isolate the snippet: break down the snippet and see what you don't understand and try to take the smallest bit of code that only has the thing you want to learn.   
+   
+Be careful on what name of the variables but also the values. For example, we want to learn about block scopes. We have a variable that is inner_var in the first block and the value is global var so you understand that this inner_var in the block has a global scope, by the value you give to your variable.   
+   
+Put the comment at the beginning of the snippet on what you want to learn, what the snippet is about. But nothing with values or variable because they are static: _what exactly am i trying to illustrate?_   
+=> You take the expression you want to study and you make a trace block out of it : make it more understandable.
+   
+eg. you want to illustrate ++num_1.
+```js
+let step step_1 = Number(1) + 1
+incr_num_1 = step_1
+num_1 + step_1
+```
 ## Description
 This is about...
 
