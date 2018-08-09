@@ -15,7 +15,7 @@
 - Select the right visualization tools for your use case
 --->
 ## What makes a good snippet and a good exercise?
-How do I create a good snippet? You need to have very clear idead of what are you trying to learn out of the snippet.   
+How do I create a good snippet? You need to have very clear idea of what are you trying to learn out of the snippet.   
    
 Isolate the snippet: break down the snippet and see what you don't understand and try to take the smallest bit of code that only has the thing you want to learn.   
    
