@@ -24,12 +24,8 @@ Be careful on what name of the variables but also the values. For example, we wa
 Put the comment at the beginning of the snippet on what you want to learn, what the snippet is about. But nothing with values or variable because they are static: _what exactly am i trying to illustrate?_   
 => You take the expression you want to study and you make a trace block out of it : make it more understandable.
    
-eg. you want to illustrate ++num_1.
-```js
-let step step_1 = Number(1) + 1
-incr_num_1 = step_1
-num_1 + step_1
-```
+eg. you want to illustrate ++. I need an expression that uses it and only that
+
 ## Description
 This is about...
 
